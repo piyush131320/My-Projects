@@ -54,6 +54,14 @@ Images are resized and normalized before training.
 - Loss Function: Binary Crossentropy
 - Optimizer: Adam
 
-
+- 
+## 📂 Project Structure
+Face-Mask-Detection-CNN/
+│
+├── DL Project face Mask Detection using CNN.ipynb
+├── dataset/
+├── model/
+├── README.md
+└── requirements.txt
 
 
