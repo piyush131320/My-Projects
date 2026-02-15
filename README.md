@@ -49,15 +49,11 @@ Images are resized and normalized before training.
 ---
 
 ## 📈 Model Performance
-- Training Accuracy: XX%
-- Validation Accuracy: XX%
+- Training Accuracy: 91%
+- Validation Accuracy: 96%
 - Loss Function: Binary Crossentropy
 - Optimizer: Adam
 
-(Note: Replace XX% with your actual accuracy)
 
----
 
-## ▶️ How to Run the Project
 
-1. Clone the repository:
